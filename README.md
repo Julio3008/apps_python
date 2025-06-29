@@ -1,4 +1,4 @@
-## Aplicaciones
+## Aplicaciones hechos con python
 
 ### 1. Alarma (alarma.py)
 
